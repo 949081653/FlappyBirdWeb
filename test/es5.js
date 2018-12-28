@@ -3,8 +3,8 @@
 
     //函数声明
     // function Animal() {
-    //
-    // }
+    //     //
+    //     // }
 
     var Animal = function (name, age) {
         this.name = name;
